@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-k@v1$8$ss-#c#=_&_611h#qcu=87))pc529lc$gmi@lx=ytn(0
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['.herokuapp.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['tunmie-library.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
